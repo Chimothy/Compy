@@ -248,7 +248,7 @@
 .messagesPopoutWrap-3zryHW:before,.noiseCancellationPopout-2-e5Xz:before,.popoutContainer-2wbmiM:before,.profileBannerPreview-3_l0Wd:before,.root-g14mjS:before,.root-3bVOP7:before,
 .root-8LYsGj:before,.streamPreview-3qoMP4:before,.toolbar-37BrJ5:before,.uploadModal-2ie9O_:before,.userPopout-2j1gM4:before,.wrapper-2vIMkT:before 
 {
-    border: 1px var(--background-modifier-accent);
+    border: 1px var(--background-modifier-accent) transparent;
     box-sizing: border-box;
     width: 100%;
     height: 100%;
